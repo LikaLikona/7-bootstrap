@@ -1,0 +1,83 @@
+h1{
+    color: #2F2E41;
+    font-size: 86px;
+    font-family: Playfair Display;
+    font-weight: 700;
+    line-height: 88px;
+    word-wrap: break-word
+}
+p{
+    color: #9893A3;
+    font-size: 20px;
+    font-family: Open Sans;
+    font-weight: 400;
+    line-height: 34px;
+    word-wrap: break-word
+}
+.btn_1{ 
+
+    padding-left: 30px; 
+    padding-right: 30px; 
+    padding-top: 16px; 
+    padding-bottom: 16px; 
+    background: #6C63FF; 
+    border-radius: 2px; 
+    overflow: hidden; 
+    border: 1px #6C63FF solid;
+    color: white ;
+    justify-content: center; 
+    align-items: center; 
+    gap: 10px; 
+    display: inline-flex; 
+    -webkit-border-radius: 2px; 
+    -moz-border-radius: 2px; 
+    -ms-border-radius: 2px; 
+    -o-border-radius: 2px;
+}
+.btn_1:hover{
+    background: transparent;
+    color: #6C63FF;
+    border: 1px #6C63FF solid;
+}
+.btn_2{
+    padding-left: 30px; 
+    padding-right: 30px; 
+    padding-top: 16px; 
+    padding-bottom: 16px; 
+    border-radius: 2px; 
+    overflow: hidden; 
+    border: 1px #6C63FF solid; 
+    justify-content: center; 
+    align-items: center; 
+    gap: 10px; 
+    display: inline-flex;
+    color:#6C63FF
+}
+.btn_2:hover{
+    background: #6C63FF;
+    color: white;
+}
+.mt-130{
+    margin-top: 130px;
+}
+.mt-30{
+    margin-top: 30px;
+}
+.mt-220{
+    margin-top: 220px;
+}
+.font-60{
+    font-size: 60px;
+    font-family: "Playfair Display";
+}
+.btn_gradient{
+    color: #2F2E41;
+    font-size: 18px;
+    font-family: Open Sans;
+    font-weight: 600;
+    line-height: 20px;
+    letter-spacing: -1px;
+    background: rgba(197, 194, 240);
+    background: linear-gradient(0deg,  rgba(197,194,240,1) 46%, rgba(255,255,255,1) 46%,);
+    border:none;
+}
